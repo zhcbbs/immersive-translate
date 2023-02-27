@@ -87,6 +87,8 @@
 
 如果安装有困难，可以点击参考 [YouTube 视频教程](https://youtu.be/vOaCFjYmQNM)，[抖音视频教程](https://v.douyin.com/B4aeGYt/) 。
 
+部分用户反馈[Userscripts](https://itunes.apple.com/us/app/userscripts/id1463298887)安装本扩展的 [油猴脚本](https://immersive-translate.owenyoung.com/immersive-translate.user.js)可能无法使用，建议这部分用户可以尝试使用[staty](https://apps.apple.com/cn/app/stay-%E7%94%A8%E6%88%B7%E8%84%9A%E6%9C%AC%E6%89%A9%E5%B1%95%E7%AE%A1%E7%90%86/id1591620171)。
+
 ## 安卓端 (Android)
 
 #### 火狐浏览器
